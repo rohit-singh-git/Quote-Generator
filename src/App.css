@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  background-color: rgb(61, 80, 80);
+}
+
+.quote{
+  text-decoration: underline;
+}
+
+.author {
+  text-decoration: underline;
+}
